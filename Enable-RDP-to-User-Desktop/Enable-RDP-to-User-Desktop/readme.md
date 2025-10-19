@@ -1,4 +1,4 @@
-# Invoke-RemoteRDPSetup.ps1
+# Enable-RDP-to-User-Desktop.ps1
 
 ## Overview
 
